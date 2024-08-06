@@ -1,52 +1,14 @@
 {
-  {
-    "_id": "7300ee11-5c06-4d6f-A510-cbbc91e0f70b",
-    "index": "1",
-    "name": "점지욱",
-    "email": "user-7n69pl0@augue.co.kr",
-    "phone": "010-2542-3451",
-    "country": "버뮤다",
-    "address": "강변북로 15-6",
-    "job": "일반공무원"
-  },
-  {
-    "_id": "6f18c55f-a218-41c1-Aa85-100218c12196",
-    "index": "2",
-    "name": "종정윤",
-    "email": "user-hozyrfn@suscipit.net",
-    "phone": "010-7388-6606",
-    "country": "그린란드",
-    "address": "강변북로 21-8",
-    "job": "경영컨설턴트"
-  },
-  {
-    "_id": "ba6b2865-8280-455b-A83a-8a591bbb36fd",
-    "index": "3",
-    "name": "무민지",
-    "email": "user-onh1dyx@Eu.org",
-    "phone": "010-6361-6796",
-    "country": "안도라",
-    "address": "양산로 23-6",
-    "job": "로봇연구원"
-  },
-  {
-    "_id": "d1fdab97-dc2c-47ba-A8eb-4d0c5a061290",
-    "index": "4",
-    "name": "궉지운",
-    "email": "user-ahp9ax6@dolorem.co.kr",
-    "phone": "010-4460-9788",
-    "country": "요르단",
-    "address": "서소문로 53-4",
-    "job": "방송연출가"
-  },
-  {
-    "_id": "7b465294-6ed4-4d06-C3fa-3515bf53b2c5",
-    "index": "5",
-    "name": "갈다은",
-    "email": "user-t6hq519@eiusmod.co.kr",
-    "phone": "010-5548-7282",
-    "country": "캄보디아",
-    "address": "방학로 64-1",
-    "job": "환경공학기술자 및 연구원"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
