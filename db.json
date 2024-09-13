@@ -48,26 +48,5 @@
         ["kraken", "ㅏㄱㅁㅏㄷㅜ", "ㅏㄱ마ㄷㅜ"],
         ["fire", "ㄹㅑㄱㄷ", "ㄹㅑㄱㄷ"],
         ["drive", "ㅇㄱㅑㅍㄷ", "ㅇ걒ㄷ"]
-    ],
-    "data3": [
-        ["한글", "gksrmf", "gksrmf"],
-        ["영어", "duddj", "duddj"],
-        ["슬랙", "tmffor", "tmffor"],
-        ["노션", "shtus", "shtus"],
-        ["유튜브", "dbxbqm", "dbxbqm"],
-        ["사파리", "tkvkfl", "tkvkfl"],
-        ["카카오", "zkzkdh", "zkzkdh"],
-        ["트위터", "xmdnlxj", "xmdnlxj"],
-        ["인스타", "dlstmxk", "dlstmxk"],
-        ["네이버", "spdlqj", "spdlqj"],
-        ["구글", "rnrmf", "rnrmf"],
-        ["넷플", "sptvmf", "sptvmf"],
-        ["디즈니", "elwmsl", "elwmsl"],
-        ["음악", "dmadkr", "dmadkr"],
-        ["키노트", "zlshxm", "zlshxm"],
-        ["파워", "vkdnj", "vkdnj"],
-        ["메모", "apah", "apah"],
-        ["넷플", "sptvmf", "sptvmf"],
-        ["드라이브", "emfkdlqm", "emfkdlqm"]
     ]
 }
